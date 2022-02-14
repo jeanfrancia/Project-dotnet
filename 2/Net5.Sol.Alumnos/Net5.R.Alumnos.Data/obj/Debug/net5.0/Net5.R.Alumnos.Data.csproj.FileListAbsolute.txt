@@ -1,0 +1,5 @@
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\2\Net5.Sol.Alumnos\Net5.R.Alumnos.Data\obj\Debug\net5.0\Net5.R.Alumnos.Data.csproj.AssemblyReference.cache
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\2\Net5.Sol.Alumnos\Net5.R.Alumnos.Data\obj\Debug\net5.0\Net5.R.Alumnos.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\2\Net5.Sol.Alumnos\Net5.R.Alumnos.Data\obj\Debug\net5.0\Net5.R.Alumnos.Data.AssemblyInfoInputs.cache
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\2\Net5.Sol.Alumnos\Net5.R.Alumnos.Data\obj\Debug\net5.0\Net5.R.Alumnos.Data.AssemblyInfo.cs
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\2\Net5.Sol.Alumnos\Net5.R.Alumnos.Data\obj\Debug\net5.0\Net5.R.Alumnos.Data.csproj.CoreCompileInputs.cache

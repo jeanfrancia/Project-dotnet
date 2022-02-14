@@ -1,0 +1,12 @@
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.CrossCutting\bin\Debug\net5.0\Net5.R.InfraAlu.CrossCutting.deps.json
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.CrossCutting\bin\Debug\net5.0\Net5.R.InfraAlu.CrossCutting.dll
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.CrossCutting\bin\Debug\net5.0\ref\Net5.R.InfraAlu.CrossCutting.dll
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.CrossCutting\bin\Debug\net5.0\Net5.R.InfraAlu.CrossCutting.pdb
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.CrossCutting\obj\Debug\net5.0\Net5.R.InfraAlu.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.CrossCutting\obj\Debug\net5.0\Net5.R.InfraAlu.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.CrossCutting\obj\Debug\net5.0\Net5.R.InfraAlu.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.CrossCutting\obj\Debug\net5.0\Net5.R.InfraAlu.CrossCutting.AssemblyInfo.cs
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.CrossCutting\obj\Debug\net5.0\Net5.R.InfraAlu.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.CrossCutting\obj\Debug\net5.0\Net5.R.InfraAlu.CrossCutting.dll
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.CrossCutting\obj\Debug\net5.0\ref\Net5.R.InfraAlu.CrossCutting.dll
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.CrossCutting\obj\Debug\net5.0\Net5.R.InfraAlu.CrossCutting.pdb

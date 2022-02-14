@@ -1,0 +1,15 @@
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\bin\Debug\net5.0\Net5.R.InfraAlu.Data.deps.json
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\bin\Debug\net5.0\Net5.R.InfraAlu.Data.runtimeconfig.json
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\bin\Debug\net5.0\Net5.R.InfraAlu.Data.runtimeconfig.dev.json
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\bin\Debug\net5.0\Net5.R.InfraAlu.Data.dll
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\bin\Debug\net5.0\ref\Net5.R.InfraAlu.Data.dll
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\bin\Debug\net5.0\Net5.R.InfraAlu.Data.pdb
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\obj\Debug\net5.0\Net5.R.InfraAlu.Data.csproj.AssemblyReference.cache
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\obj\Debug\net5.0\Net5.R.InfraAlu.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\obj\Debug\net5.0\Net5.R.InfraAlu.Data.AssemblyInfoInputs.cache
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\obj\Debug\net5.0\Net5.R.InfraAlu.Data.AssemblyInfo.cs
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\obj\Debug\net5.0\Net5.R.InfraAlu.Data.csproj.CoreCompileInputs.cache
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\obj\Debug\net5.0\Net5.R.InfraAlu.Data.dll
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\obj\Debug\net5.0\ref\Net5.R.InfraAlu.Data.dll
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\obj\Debug\net5.0\Net5.R.InfraAlu.Data.pdb
+C:\Users\BCP\NH-DotNet\Projecto-Dotnet-Examen\03\Net5.R.SoluAlu\Net5.R.InfraAlu.Data\obj\Debug\net5.0\Net5.R.InfraAlu.Data.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25a48faa-ce04-4d3e-bf52-81a2be7279d8": {
+      "ProjectGuid": "25a48faa-ce04-4d3e-bf52-81a2be7279d8",
+      "DisplayName": "Net5.R.Alum.Data",
+      "ColorIndex": 0
+    },
+    "e5780f27-c072-4003-895b-b25df052bbde": {
+      "ProjectGuid": "e5780f27-c072-4003-895b-b25df052bbde",
+      "DisplayName": "NewSolAPIPrueba",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
